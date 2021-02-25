@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<head>
+</head>
+<title> CALLIGRAPUFF</title>
+<style>
+  body{background-image:url(cutebackground.jpg);}
+  body{background-attachment:fixed;}
+</style>
+<style type="text/css">
+  h1{text-align:center;color:black;background-color:beige;box-shadow: 0 0 0 5px black;font-family:courier;font-size:30px:margin-left:50px;margin-right:50px;}
+  h2{text-align:center;color:black;background-color:Burlywood;box-shadow: 0 0 0 5px black;font-family:courier;font-size:30px;margin-left:50px;margin-right:50px;}
+  h3{text-align:center;color:black;background-color:darkseagreen;box-shadow: 0 0 0 5px black;font-family:courier;font-size:30px;margin-left:50px;margin-right:50px;}
+  h4{text-align:center;color:black;background-color:lightyellow;box-shadow: 0 0 0 5px black;font-family:courier;font-size:28px;margin-left:50px;margin-right:60px;}
+  p{text-align:center;color:black;background-color:peachpuff;box-shadow: 0 0 0 5px black;font-family: monospace;font-size:30px;margin-left:50px;margin-right:50px;margin-top:30px;}
+  img{display:block;margin-right:auto;
+  margin-left: auto ;margin-bottom:auto ;background-color:lightblue;}
+  video{display:block;margin-right: auto;
+  margin-left: auto;}
+  audio{display:block;margin-right: auto;
+  margin-left: auto;}
+  main{text-align:center;color:white;background-color:gray;box-shadow: 0 0 0 5px black;font-family:verdana;font-size:30px;margin-left:50px;margin-right:60px;}
+</style>
+<h1> CALLIGRAPUFF </h1>
+<p> Introduction: </p>
+<p> <bold> Calligraphy is a visual art related to writing. It is the design and execution of lettering with a broad-tipped instrument, brush, or other writing instrument. A contemporary calligraphic practice can be defined as "the art of giving form to signs in an expressive, harmonious, and skillful manner" </bold> </p>
+<h2> These are different type of brushes.</h2>
+<img src="strokes.jpg" alt="Brush Tips" width="500" height="300">
+<h2>⇝ Brushes, or markers with harder tips are easier to control,
+ While brushes with softer tips are usually harder for beginners to use.</h2>
+<h3>⇝ Crayola supertip markers are the easiest and cheapest markers to use for calligraphy.</h3>
+<h3>⇝ That is why it is usually suggested to beginners.</h3>
+<h3>⇝ Brush markers with soft tips are usually very fragile and more expensive </h3>
+<img src="crayola.jpg" alt="crayola Tips" width="500" height="300">
+<br>
+<h2>⇝ This is an example of the alphabet and numbers in calligraphy.</h2>
+<h2>⇝ It is expected for you guys to be able to write something similar to this after this session </h2>
+<h2>⇝ There are also different fonts of calligraphy, but we’ll focus on the standard cursive </h2>
+<img src="alphabet.jpg" alt="crayola Tips" width="550" height="350">
+<h1>  This is the Basic Strokes </h1>
+<h2>⇝ DOWNSTROKE: Heavy Pressure </h2>
+<h2>⇝ OVERTURN: A combination of the up and down stroke. </h2>
+<h2>⇝ UNDERTURN: Opposite of the overturn. </h2>
+<h2>⇝ COMPOUND CURVE: A combination of the over and under turn.</h2>
+<h2>⇝ OVAL: This is a tricky one and takes some practice! . </h2>
+<h2>⇝ ASCENDING LOOP: This is a fun one!</h2>
+<video width="770" height="400" controls>
+  <source src="basicstrokes.mp4" type="video/mp4">
+</video>
+<h2>⇝ Practicing the basic strokes may seem like something that’s unnecessary, but it’s the key to learning calligraphy. </h2>
+<h3>⇝ Practice the basic strokes on a daily basis in order to achieve the consistency you want</h3>
+<h2> ⇝ A way to spice up your calligraphy is to add twirls and curls to the stems and tails of the letters.
+</h2>
+<h3>⇝ This is another reason for why you should practice the basic strokes. </h3>
+<img src="strokes2.jpg" alt="strokes Tips" width="560" height="350">
+<h1> Here are some of the different flows for how you can write your calligraphy; </h1>
+<h2>⇝ The “exaggerated” where in the letters seem bouncy</h2>
+<h3>⇝ The “balanced” where there is just a slight impartiality</h3>
+<h2>⇝ The “subtle” where the letters are toned-down</h2>
+<img src="ways.jpg" alt="different Tips" width="650" height="450">
+<br>
+<p> BENEFITS OF PARTICIPATING IN OUR WORKSHOP </p>
+<h2>⇝ Learn creative lettering, and make your penmanship better </h2>
+<h3>⇝ Calligraphy often relaxes our mind, so it would be a good hobby.</h3>
+<h2>⇝ You can start your very own workshop</h2>
+<h3>⇝ Have a business for designing </h3>
+<h2>⇝ Create your very own cards and invitations</h2>
+<h3>⇝ Meet new participants that have common interests as you </h3>
+<h2>⇝ You’d be able to impress your friends</h2>
